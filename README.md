@@ -20,10 +20,10 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Java" width="50" height="50"/><br>Java
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/><br>Java
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="C++" width="80" height="50"/><br>C++
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="50"/><br>C++
       </td>
     </tr>
   </tbody>
