@@ -114,6 +114,9 @@
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50"/><br>Git
+      </td>
         <td align="center" style="border: none; padding: 12px;">
           <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
         </td>
