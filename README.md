@@ -11,6 +11,25 @@
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack</h1>
 
+<h3 align="center">Languages</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Java" width="50" height="50"/><br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="C++" width="80" height="50"/><br>C++
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
+
 <h3 align="center">Web Development</h3>
 
 <div align="center">
