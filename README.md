@@ -63,6 +63,56 @@
 </table>
 </div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<div align="center">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+      </td>
+      <td align="center" style="border: none;">
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
