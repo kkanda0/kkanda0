@@ -86,6 +86,26 @@
 </table>
 </div>
 
+<h3 align="center">Cloud Computing & DevOps</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none; padding: 12px;">
+         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td> 
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
