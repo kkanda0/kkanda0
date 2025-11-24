@@ -11,12 +11,6 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
 
-<style>
-  h1, h3, table td, table th {
-    font-family: 'Space Grotesk', sans-serif !important;
-  }
-</style>
-
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack</h1>
 
 <h3 align="center">Languages</h3>
