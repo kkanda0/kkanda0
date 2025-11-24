@@ -3,9 +3,9 @@
         alt="wave"
         style="height:40px; display:block;">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hi+im+karan!" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=true&width=300&lines=hi+im+karan!" />
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=200&lines=hi+im+karan!" style="height:50px; display:block;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=Hi+I'm+Karan!" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=true&width=300&lines=Hi+I'm+Karan!" />
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=200&lines=Hi+I'm+Karan!" style="height:50px; display:block;" />
    </picture>
 </div>
 
