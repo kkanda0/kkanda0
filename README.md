@@ -1,7 +1,7 @@
 <div style="display:flex; align-items:center; gap:8px;">
    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
         alt="wave"
-        style="height:50px; display:block;">
+        style="height:40px; display:block;">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hi+im+karan!" />
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=true&width=300&lines=hi+im+karan!" />
