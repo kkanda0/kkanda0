@@ -3,161 +3,134 @@
         alt="wave"
         style="height:40px; display:block;">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=Hi+Im+Karan!" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=true&width=300&lines=Hi+Im+Karan!" />
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=200&lines=Hi+Im+Karan!" style="height:50px; display:block;" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=350&lines=Hi%2C+I'm+Karan!" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=false&width=350&lines=Hi%2C+I'm+Karan!" />
+      <img alt="Hi, I'm Karan!" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=350&lines=Hi%2C+I'm+Karan!" style="height:50px; display:block;" />
    </picture>
 </div>
 
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+### I build around the parts of software users rarely see.
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack</h1>
+I'm a CS student interested in **cloud infrastructure, distributed systems, AI, and fintech**. I enjoy taking systems that technically work and making them more reliable, repeatable, and easier for the next developer to use.
 
-<h3 align="center">Languages</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/><br>Java
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="50"/><br>C++
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
+Most of my work sits somewhere between **infrastructure and product** — whether that's automating AWS provisioning, building real-time financial systems, experimenting with AI-powered developer tooling, or connecting physical simulation with reinforcement learning.
 
-<h3 align="center">Web Development</h3>
+---
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+## Featured Projects
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50" alt="SQL"/><br>SQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+### 🚗 [PayPark](https://github.com/kkanda0/PayPark)
+**Usage-based parking with real-time sessions and RLUSD settlement on the XRP Ledger.**
 
-<h3 align="center">Cloud Computing & DevOps</h3>
+Instead of paying for a fixed block of parking time, PayPark lets drivers start a live session, track cost as they park, and settle only for the time they actually use.
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50"/><br>Git
-      </td>
-        <td align="center" style="border: none; padding: 12px;">
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-        </td>
-        <td align="center" style="border: none; padding: 12px;">
-          <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-        </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none; padding: 12px;">
-         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td> 
-    </tr>
-  </tbody>
-</table>
-</div>
+`Next.js` `TypeScript` `Express` `Socket.io` `XRPL` `RLUSD` `TomTom`
 
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+**Columbia DivHacks 2025**
+- 🏆 3rd Place Overall
+- 🏆 Best Financial Hack — Capital One
+- 🏆 On-Chain Innovation — Ripple
+- 🏆 Most Popular Hack
 
+---
+
+### 📈 Fiscal
+**A real-time crypto portfolio simulator built around market behavior rather than static balances.**
+
+Streams BTC/ETH pricing and order-book data, supports simulated trading, and layers AI-generated risk commentary over portfolio activity.
+
+`Real-time APIs` `Gemini` `FinTech` `Market Data`
+
+---
+
+### 🧠 Miser
+**A personal-finance platform built around making financial data easier to query and understand.**
+
+Supports transaction ingestion, automatic CSV mapping, retrieval-augmented financial chat, and portfolio visualizations.
+
+`Next.js` `TypeScript` `RAG` `Semantic Kernel` `SQLite`
+
+---
+
+### 🌎 ReliefGraph
+**A disaster-resource model built with Palantir Foundry's Ontology SDK.**
+
+Models relationships between communities, shelters, disasters, and resources to identify shortages and surface where assistance is needed.
+
+`Palantir Foundry` `Ontology SDK` `FEMA` `Census Data`
+
+---
+
+## What I'm Interested In
+
+```text
+Cloud Infrastructure    → repeatable, policy-aware systems
+Distributed Systems     → state, coordination, reliability
+AI Infrastructure       → retrieval, orchestration, observability
+FinTech                 → market systems, payments, financial tooling
+Physical AI             → reinforcement learning + simulation
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js" />
+</p>
+
+<p align="center">
+  Python · Java · C++ · TypeScript · JavaScript
+</p>
+
+### Application Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,html,css" />
+</p>
+
+<p align="center">
+  Next.js · React · Node.js · Express · Flask
+</p>
+
+### Infrastructure & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,github,jenkins,gcp,azure" />
+</p>
+
+<p align="center">
+  AWS · Terraform · Docker · Git/GitHub · Jenkins · GCP · Azure
+</p>
+
+### Data & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
+</p>
+
+<p align="center">
+  SQL · MySQL · SQLite · Redis · Prisma
+</p>
+
+### AI / ML
+
+<p align="center">
+  Gemini API · RAG · Semantic Kernel · Hugging Face · Isaac Gym
+</p>
+
+---
+
+## Currently Exploring
+
+- infrastructure abstractions that make cloud systems harder to misuse
+- distributed state and real-time systems
+- AI infrastructure beyond the model API
+- reinforcement learning in simulated environments
+- financial systems where software decisions directly affect user behavior
+
+---
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
