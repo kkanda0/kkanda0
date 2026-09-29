@@ -9,12 +9,6 @@
    </picture>
 </div>
 
-### I build around the parts of software users rarely see.
-
-I'm a CS student interested in **cloud infrastructure, distributed systems, AI, and fintech**. I enjoy taking systems that technically work and making them more reliable, repeatable, and easier for the next developer to use.
-
-Most of my work sits somewhere between **infrastructure and product** — whether that's automating AWS provisioning, building real-time financial systems, experimenting with AI-powered developer tooling, or connecting physical simulation with reinforcement learning.
-
 ---
 
 ## Featured Projects
@@ -49,15 +43,6 @@ Streams BTC/ETH pricing and order-book data, supports simulated trading, and lay
 Supports transaction ingestion, automatic CSV mapping, retrieval-augmented financial chat, and portfolio visualizations.
 
 `Next.js` `TypeScript` `RAG` `Semantic Kernel` `SQLite`
-
----
-
-### 🌎 ReliefGraph
-**A disaster-resource model built with Palantir Foundry's Ontology SDK.**
-
-Models relationships between communities, shelters, disasters, and resources to identify shortages and surface where assistance is needed.
-
-`Palantir Foundry` `Ontology SDK` `FEMA` `Census Data`
 
 ---
 
